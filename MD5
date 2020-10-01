@@ -1,0 +1,12 @@
+c38025ab3a576650c8069a58705dd42c *DESCRIPTION
+c1c5505213adec416259177c31bd199a *NAMESPACE
+83fb829d983c86ad6a50aa240c5a5f98 *R/carry.over.R
+bea0b347979efaf9047b2aa45815b267 *R/drift.R
+32d925621c44238066767a62c31cbdda *R/iso.summary.R
+ff48931c084d31f3f3166abe84ff2d70 *R/st.err.R
+b485ada4d520c3a9ab5fbc7d86878d0d *data/Iso_data.RData
+6686c0912fc3c7cda8f7f6ebad23cb48 *man/Iso_data.Rd
+b0752047c02a90cd5d8b4de44d2ec434 *man/carry.over.Rd
+0df2e246d79488f5255203dff508d519 *man/drift.Rd
+c3e8c9e68923a3a6db21f1b4181c9eff *man/iso.summary.Rd
+00f8114a21cb2928cb8c3a476e486033 *man/st.err.Rd
